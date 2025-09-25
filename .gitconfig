@@ -1,0 +1,13 @@
+[user]
+	email = ralf.rose.oskar@gmail.com
+	name = Freemaker
+[alias]
+	s = status -sb
+	c = commit -ev
+	a = add --all
+[core]
+	editor = nvim
+[init]
+	defaultBranch = main
+[pull]
+	rebase = true
