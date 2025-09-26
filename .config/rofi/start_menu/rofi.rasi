@@ -12,10 +12,10 @@ configuration {
 * {
     font: "JetBrains Nerd Font Mono";
     transparent: #00000000;
-    foreground: #F2F2F2EE;
-    background-selected: #F2F2F245;
-    background-active: #F2F2F230;
-    background-white: #F2F2F211;
+    foreground: #F2F2F2DD;
+    background-selected: #F2F2F2DD;
+    background-active: #F2F2F2DD;
+    background-white: #F2F2F2DD;
     background-black: #00000000;
     urgent: #E91E6366;
     urgent-selected: #E91E6377;
@@ -23,7 +23,7 @@ configuration {
 
 window {
     transparency: "real";
-    background-color: #1917244D;
+    background-color: #191724DF;
     text-color: #6e6a86;
     location: west;
     anchor: west;
@@ -32,6 +32,7 @@ window {
     height: 70%;
     width: 350px;
     orientation: vertical;
+    border-radius: 10px;
 }
 
 prompt {
@@ -144,7 +145,7 @@ element alternate.active {
 }
 
 element selected {
-    background-color: #403d5220;
+    background-color: #403d5280;
     text-color: @foreground;
 }
 
@@ -154,6 +155,6 @@ element selected.urgent {
 }
 
 element selected.active {
-    background-color: #403d5220;
+    background-color: #403d5280;
     color: @foreground-selected;
 }
