@@ -1,0 +1,44 @@
+{
+	"all": {
+		"buttons": {
+			"share": {
+				"small": false,
+				"big": false
+			},
+			"shuffle": {
+				"small": false,
+				"big": false
+			},
+			"previous": {
+				"small": true,
+				"big": true
+			},
+			"pauseplay": {
+				"small": true,
+				"big": true
+			},
+			"next": {
+				"small": true,
+				"big": true
+			},
+			"repeat": {
+				"small": true,
+				"big": true
+			},
+			"volume": {
+				"small": true,
+				"big": true
+			}
+		},
+		"general": {
+			"addBy": false,
+			"addTimeline": true,
+			"addActivityButton": false,
+			"hideDisabled": false,
+			"doubleBack": true
+		},
+		"playerState": {
+			"maximized": true
+		}
+	}
+}

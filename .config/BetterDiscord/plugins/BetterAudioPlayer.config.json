@@ -1,0 +1,17 @@
+{
+    "currentVersionInfo": {
+        "version": "1.0.3",
+        "hasShownChangelog": true
+    },
+    "settings": {
+        "showSpectrograph": true,
+        "showOscilloscope": true,
+        "inheritColors": true,
+        "manualColorSettings": {
+            "oscilloscopeColorCustom": "#FFFFFF",
+            "spectrographColorCustom": "#738ADB"
+        },
+        "spectrographSegments": 110,
+        "bypassFileSizeLimit": false
+    }
+}
