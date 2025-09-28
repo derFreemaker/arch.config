@@ -13,3 +13,5 @@ export SSH_AUTH_SOCK="$XDG_RUNTIME_DIR/keyring/ssh"
 export GNOME_KEYRING_CONTROL="$XDG_RUNTIME_DIR/keyring"
 
 eval "$(oh-my-posh init bash --config ~/.config/oh-my-posh/oh-my-posh.toml)"
+
+eval "$(zoxide init --cmd cd bash)"
