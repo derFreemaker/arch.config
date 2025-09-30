@@ -1,0 +1,8 @@
+theme = Dark Pastel
+font-family = "JetBrainsMono Nerd Font"
+alpha-blending = linear-corrected
+background-opacity = 0.8
+background-blur = 20
+
+quit-after-last-window-closed = false
+

@@ -20,15 +20,8 @@
     },
 
     "hyprland/workspaces": {
-        "disable-scroll": true,
         "all-outputs": true,
-        "warp-on-scroll": false,
         "format": "{name}",
-        "format-icons": {
-            "urgent": "",
-            "active": "",
-            "default": ""
-        }
     },
 
     "network": {
